@@ -8,14 +8,14 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="listaTareas.php">
-                    <span class="fw-bold">Mis tareas</span>
+                <a class="nav-link" href="nuevaForm.php">
+                    <span class="fw-bold">Nueva tarea</span>
                 </a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="nueva.php">
-                    <span class="fw-bold">Nueva tarea</span>
+                <a class="nav-link" href="listaTareas.php">
+                    <span class="fw-bold">Mis tareas</span>
                 </a>
             </li>
         </ul>

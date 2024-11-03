@@ -18,10 +18,15 @@
              <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center
                 pt-3 pb-2 mb-3 border-bottom">
-                    <h2>Título del contenido</h2>
+                    <h2>Sobre mi</h2>
                 </div>
                 <div class="container">
-                    <p>Aquí va el contenido</p>
+                    <p>Mi nombre es Laura. <br>
+                        Estoy creando esta página para completar la tarea de la Unidad 2,
+                        en la que estamos estudiando como insertar código en paǵinas web. <br>
+                        <br>
+                        Además vamos practicando para subir nuestro contenido a github.
+                    </p>
                 </div>
             </main>
         </div>
