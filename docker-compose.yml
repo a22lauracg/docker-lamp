@@ -23,6 +23,8 @@ services:
             - ./www:/var/www/html
         links:
             - db
+        env_file:
+            - .env
         networks:
             - default
         extra_hosts:
